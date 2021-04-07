@@ -1,2 +1,1 @@
-1. EAT
 1. SLEEP
