@@ -2,5 +2,4 @@
 1. EAT
 1. FIND
 1. WALK
-1. RUN
 1. SLEEP
