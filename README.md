@@ -1,3 +1,2 @@
 1. EAT
-1. WALK
 1. SLEEP
