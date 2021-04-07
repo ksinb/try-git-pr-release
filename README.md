@@ -1,3 +1,3 @@
 1. SLEEP
-1. EAT
+1. EAT2
 1. SQUASH2
