@@ -29,4 +29,4 @@ jobs:
           GIT_PR_RELEASE_VERSION: 1.5.0
         run: |
           gem install -N git-pr-release -v $GIT_PR_RELEASE_VERSION
-          git-pr-release --no-fetch
+          git-pr-release
