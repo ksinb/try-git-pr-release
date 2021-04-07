@@ -2,11 +2,13 @@ name: Creates a release pull request
 
 on:
   pull_request:
+    types: [closed]
     branches:
       - develop
 
 jobs:
   git-pr-release:
+    if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
