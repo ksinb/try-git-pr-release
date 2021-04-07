@@ -1,5 +1,3 @@
-1. COOK
 1. EAT
-1. FIND
 1. WALK
 1. SLEEP
