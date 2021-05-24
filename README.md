@@ -1,3 +1,3 @@
-1. SLEEP1
+1. one
 1. EAT
 1. SQUASH4
