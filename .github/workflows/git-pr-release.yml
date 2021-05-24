@@ -24,7 +24,7 @@ jobs:
           GIT_PR_RELEASE_BRANCH_PRODUCTION: master
           GIT_PR_RELEASE_BRANCH_STAGING: develop
           GIT_PR_RELEASE_LABELS: release
-          GIT_PR_RELEASE_VERSION: 1.5.0
+          GIT_PR_RELEASE_VERSION: 1.7.0
         run: |
           gem install -N git-pr-release -v $GIT_PR_RELEASE_VERSION
           git-pr-release  --no-fetch --squash
