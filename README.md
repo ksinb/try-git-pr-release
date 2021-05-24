@@ -1,3 +1,3 @@
-1. SLEEP1
-1. EAT
-1. SQUASH4
+1. one
+1. two
+1. three
